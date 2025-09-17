@@ -21,9 +21,10 @@ public class ex14 {
         }
 
         if (categoria != "Idade inválida!"){
-            System.out.println("Você é da catergoria " + categoria);
+            System.out.println("Você é da categoria " + categoria);
         } else{
             System.out.println(categoria);
         }
     }
 }
+
