@@ -1,0 +1,71 @@
+1 - Leia um número inteiro e diga se ele é positivo ou negativo.
+
+2 - Leia um número e mostre se ele é par ou ímpar.
+
+3 - Leia a idade de uma pessoa e informe se ela é maior de idade ou menor de idade.
+
+
+4 - Leia o preço de um produto e diga se ele está caro (acima de R$ 100,00) ou barato.
+
+5 - Leia dois números inteiros e informe se são iguais ou diferentes.
+
+6 - Leia três notas de um aluno, calcule a média e informe se ele foi aprovado (média = 7) ou reprovado.
+
+7 - Leia a idade de uma pessoa e informe se ela pode votar (idade = 16) e se é obrigatório (idade entre 18 e 70).
+
+8 - Leia dois números e mostre se o primeiro é múltiplo do segundo.
+
+9 - Leia a velocidade de um carro. Se for maior que 80 km/h, mostre "Multado!", senão mostre "Dentro do limite".
+
+10 - Leia três números e informe qual é o maior.
+
+11 - Leia três números e informe qual é o menor.
+
+12 - Leia três números e mostre-os em ordem crescente.
+
+13 - Leia três notas e mostre a situação do aluno:
+
+Aprovado (média = 7)
+
+Recuperação (média entre 5 e 6.9)
+
+Reprovado (média < 5)
+
+14 - Leia a idade de uma pessoa e mostre a sua categoria esportiva:
+
+Até 12 anos: Infantil
+
+13 a 17 anos: Juvenil
+
+18 a 59 anos: Adulto
+
+60 anos ou mais: Sênior
+
+15 - Leia três lados e verifique se formam um triângulo. Se formarem, diga se é:
+
+Equilátero (3 lados iguais)
+
+Isósceles (2 lados iguais)
+
+Escaleno (3 lados diferentes)
+
+16 - Leia o ano de nascimento de uma pessoa e informe:
+
+Se pode votar (16 anos ou mais)
+
+Se já pode tirar carteira de motorista (18 anos ou mais)
+
+17 - Leia um número inteiro e diga se ele é positivo, negativo ou zero.
+
+18 - Leia o salário de uma pessoa e calcule o aumento:
+
+Até R$ 2000 ? aumento de 10%
+
+Entre R$ 2000 e R$ 5000 ? aumento de 7%
+
+Acima de R$ 5000 ? aumento de 5%
+
+19 - Leia a nota e a frequência de um aluno. Ele só será aprovado se:
+
+Nota = 7 e frequência = 75%
+Caso contrário, estará reprovado.
